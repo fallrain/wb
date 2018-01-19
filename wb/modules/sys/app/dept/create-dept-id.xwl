@@ -1,0 +1,1 @@
+{"hidden":false,"children":[{"configs":{"itemId":"module","serverScript":"var allDept = app.getJavaArray('allDept');\nStringUtil.checkArray(allDept); //因为使用参数替换，因此需判断防止SQL注入\napp.set('allDept', StringUtil.joinQuote(allDept));","loginRequired":"false"},"expanded":false,"children":[],"type":"module"}],"roles":{},"title":"生成部门id","iconCls":"","inframe":false,"pageLink":""}

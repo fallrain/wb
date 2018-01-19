@@ -1,0 +1,18 @@
+.wb_grid1 .x-grid-cell {
+  height: 35px;
+  font: normal 15px/16px tahoma;
+}
+
+.wb_grid1 .x-grid-header-ct {
+  background: #307dcb;
+}
+
+.wb_grid1 .x-column-header {
+  background: #307dcb;
+  color: white;
+  font: normal 15px/16px tahoma;
+}
+
+.wb_grid1 .x-column-header-over {
+  background: #509deb;
+}
